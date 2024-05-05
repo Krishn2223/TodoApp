@@ -44,8 +44,6 @@ function App() {
               />
             );
           })}
-
-          <Todolist />
         </div>
       </div>
     </>
